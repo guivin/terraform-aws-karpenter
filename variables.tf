@@ -71,4 +71,3 @@ variable "helm_chart_version" {
   type        = string
   default     = "v0.5.3"
 }
-
